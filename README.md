@@ -31,3 +31,9 @@ Manualele sunt disponibile în două formate:
 | Manual | PDF | EPUB |
 |--------|-----|------|
 | **Istoria Românilor** — Manual de istorie pentru clasa a VI-a, acoperind perioada de la formarea poporului român până în epoca modernă. | [PDF](6/Istoria%20Românilor%20/Istoria%20Românilor%20clasa%20VI.pdf) | [EPUB](6/Istoria%20Românilor%20/Istoria%20Românilor%20clasa%20VI.epub) |
+
+### Clasa a IX-a
+
+| Manual | PDF | EPUB |
+|--------|-----|------|
+| **Fizica** — Manual de fizică pentru clasa a IX-a, cu explicații clare ale conceptelor fundamentale: mecanică, termodinamică, optică și electricitate. | [PDF](9/Fizica/Fizica%20clasa%20IX.pdf) | [EPUB](9/Fizica/Fizica%20clasa%20IX.epub) |
