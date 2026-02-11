@@ -26,6 +26,10 @@
 └── ...
 ```
 
+## Reguli pentru commituri
+
+- **Nu adăuga Co-Authored-By** în mesajele de commit
+
 ## Convenții
 
 - Directoarele sunt organizate pe clase (6, 7, 8, etc.)
