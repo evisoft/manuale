@@ -34,6 +34,12 @@ Manualele sunt disponibile în două formate:
 | **Fizica** — Manual de fizică pentru clasa a VI-a, cu explicații accesibile ale conceptelor fundamentale de fizică. | [PDF](6/Fizica/Fizica%20clasa%20VI.pdf) | [EPUB](6/Fizica/Fizica%20clasa%20VI.epub) |
 | **Matematica** — Manual de matematică pentru clasa a VI-a. | [PDF](6/Matematica/Matematica%20clasa%20VI-a.pdf) | [EPUB](6/Matematica/Matematica%20clasa%20VI-a.epub) |
 
+### Clasa a VII-a
+
+| Manual | PDF | EPUB |
+|--------|-----|------|
+| **Matematica** — Manual de matematică pentru clasa a VII-a. | [PDF](7/Matematica/Matematica%20clasa%20VII-a.pdf) | [EPUB](7/Matematica/Matematica%20clasa%20VII-a.epub) |
+
 ### Clasa a IX-a
 
 | Manual | PDF | EPUB |
