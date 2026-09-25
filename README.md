@@ -34,6 +34,12 @@ Manualele sunt disponibile în două formate:
 | **Fizica** — Manual de fizică pentru clasa a VI-a, cu explicații accesibile ale conceptelor fundamentale de fizică. | [PDF](6/Fizica/Fizica%20clasa%20VI.pdf) | [EPUB](6/Fizica/Fizica%20clasa%20VI.epub) |
 | **Matematica** — Manual de matematică pentru clasa a VI-a. | [PDF](6/Matematica/Matematica%20clasa%20VI-a.pdf) | [EPUB](6/Matematica/Matematica%20clasa%20VI-a.epub) |
 
+### Clasa a VII-a
+
+| Manual | PDF | EPUB |
+|--------|-----|------|
+| **Istoria** — Istoria românilor și universală pentru clasa a VII-a, povestită celor tineri: epoca modernă (1650–1850). | [PDF](7/Istoria/Istoria%20clasa%207.pdf) | [EPUB](7/Istoria/Istoria%20clasa%207.epub) |
+
 ### Clasa a VIII-a
 
 | Manual | PDF | EPUB |
