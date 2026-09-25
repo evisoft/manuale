@@ -26,6 +26,12 @@ Manualele sunt disponibile în două formate:
 
 ## Manuale
 
+### Clasa a V-a
+
+| Manual | PDF | EPUB |
+|--------|-----|------|
+| **Istoria** — Istoria românilor și universală pentru clasa a V-a, povestită celor tineri: de la preistorie și Orientul Antic la Grecia, Roma, geto-dacii și formarea poporului român. | [PDF](5/Istoria/Istoria%20clasa%205-ea.pdf) | [EPUB](5/Istoria/Istoria%20clasa%205-ea.epub) |
+
 ### Clasa a VI-a
 
 | Manual | PDF | EPUB |
